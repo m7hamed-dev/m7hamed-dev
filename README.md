@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m7hamed-dev
-🔭 Check out my next full project toturial course: DumbDev168!
+<!-- 🔭 Check out my next full project toturial course: DumbDev168! -->
 🌱 I’m currently learning everything relate to coding 🤣
 👯 I’m looking to collaborate with other dumb developers
 🥅 2022 Goals: Learn more about new flutter will appear next 3 years
