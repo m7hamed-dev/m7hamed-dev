@@ -1,7 +1,9 @@
 - 👋 Hi, I’m  Mohamed Elsyed  ( @m7hamed-dev )
 <!-- 🔭 Check out my next full project toturial course: DumbDev168! -->
-🌱 I’m currently learning everything relate to coding 🤣
-👯 I’m looking to collaborate with other dumb developers
+🔭. I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
+🌱  I'm currently learning Flutter, Swift & more ❤️
+⚡   Fun fact: I love reading.⭐
+🗿  I am one of the early adopters of Flutter, it has been more than 3 years
 
 
 Connect with me:
