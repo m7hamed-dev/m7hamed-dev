@@ -3,7 +3,7 @@
 🔭. I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
 🌱  I'm currently learning Flutter, Swift & more ❤️
 ⚡   Fun fact: I love reading.⭐
-🗿  I am one of the early adopters of Flutter, it has been more than 3 years
+🗿  I am one of the early adopters of Flutter, it has been more than 4 years
 
 
 Connect with me:
